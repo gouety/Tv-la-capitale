@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBnTAa5Er8oPmTh2aW4MKVyd2o1o1vv_BU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1024793276639</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.tvlacapitale</string>
+	<key>PROJECT_ID</key>
+	<string>tv-la-capitale-6t6qt3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tv-la-capitale-6t6qt3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1024793276639:ios:394234d518321e5d44b96a</string>
+</dict>
+</plist>

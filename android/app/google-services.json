@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024793276639",
+    "project_id": "tv-la-capitale-6t6qt3",
+    "storage_bucket": "tv-la-capitale-6t6qt3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024793276639:android:a327acfe59ee31c244b96a",
+        "android_client_info": {
+          "package_name": "com.mycompany.tvlacapitale"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANdz35kLpHuXr557-NYG33sQ7kgZtMQPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
